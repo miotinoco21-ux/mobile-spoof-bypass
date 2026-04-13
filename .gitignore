@@ -1,0 +1,7 @@
+# Compiled .so output
+native_out/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
